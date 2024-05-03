@@ -14,6 +14,6 @@ def find_missing_number(arr):
     return missing_number
 
 # Example usage:
-arr = [3, 0, 1, 4, 5]
+arr = [3, 0, 1, 4, 2, 6]
 missing_number = find_missing_number(arr)
 print("Missing number:", missing_number)
